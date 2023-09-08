@@ -2,6 +2,6 @@
 Guided Learning Module- Android Application Development
 
 
-Sania Anwar - 21BBS0251 // 
-VIT Vellore // 
+Sania Anwar - 21BBS0251 ||
+VIT Vellore ||
 sania.anwar2021@vitstudent.ac.in
